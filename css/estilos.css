@@ -1,0 +1,24 @@
+/* Cambia el color de fondo del encabezado */
+.navbar-personalizado {
+    background-color: #0a56a3; /* Cambia este color al que prefieras */
+}
+
+.navbar-personalizado .nav-link, .navbar-personalizado .navbar-brand {
+    color: white; /* Asegura que el texto contraste bien */
+}
+
+.navbar-personalizado .nav-link:hover, .navbar-personalizado .navbar-brand:hover {
+    color:  #aaccef; /* Color al pasar el ratón */
+}
+
+/* Cambia el color de fondo del pie de página */
+.footer-personalizado {
+    background-color: #0a56a3; /* Cambia este color al que prefieras */
+    color: white;
+    padding: 10px 0;
+}
+
+.footer-personalizado p {
+    margin: 0;
+}
+
